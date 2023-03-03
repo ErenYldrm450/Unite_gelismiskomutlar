@@ -36,5 +36,6 @@
         <activity android:name="Uyg13Activity" android:label="Uygulama13"></activity>
         <activity android:name=".SS_165_Activity"></activity>
         <activity android:name=".SS_173_Activity"></activity>
+        <activity android:name=".SS_206_Activity"></activity>
     </application>
 </manifest>
